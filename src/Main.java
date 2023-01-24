@@ -4,6 +4,7 @@ public class Main{
 
     public static void main(String[] args){
       System.out.println("I'm on replit!");
+        System.out.println("Now I'm On Intelij");
         JFrame myFrame = new JFrame();
        // DrawPanel myPanel = new DrawPanel();
         BallPanel ball = new BallPanel();
